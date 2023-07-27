@@ -1,6 +1,6 @@
 Sub ShowFakeLoadingMessage()
     ' Simulate a loading message with a delay
-    WScript.Sleep(2000) ' You can adjust the delay time (in milliseconds) as per your preference
+    WScript.Sleep(1000) ' You can adjust the delay time (in milliseconds) as per your preference
 End Sub
 
 Sub ShowFakeMessageBox(message, style, title)
